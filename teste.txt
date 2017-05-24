@@ -1,0 +1,7 @@
+Esse 
+arquivo 
+é 
+destino
+para 
+teste
+no treinamento git
